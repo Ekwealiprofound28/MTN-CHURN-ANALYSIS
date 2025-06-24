@@ -1,7 +1,7 @@
 # MTN-CHURN-ANALYSIS
 
 ### Project Overview
-This is a Dataset of a Telecommunication Company in Nigeria know as MTN. This is an analysis carried out on the Churn Status of this company .
+This is a Dataset of a Telecommunication Company in Nigeria know as MTN. This is an analysis carried out on the Churn Status of this company.
 Churn Statues here refers to the rate at which Customers cease to be active in business with the company over a specific period.
 This Dataset comprises of the following contents ;973Rows and 17Columns,it is a CSV file.
 Content in this columns are :
