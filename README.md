@@ -1,16 +1,16 @@
 # MTN-CHURN-ANALYSIS
 
-### PROJECT OVERVIEW
+### Project Overview
 This is a Dataset of a Telecommunication Company in Nigeria know as MTN. This is an analysis carried out on the Churn Status of this company .
 Churn Statues here refers to the rate at which Customers cease to be active in business with the company over a specific period.
 This Dataset comprises of the following contents ;973Rows and 17Columns,it is a CSV file.
 Content in this columns are :
-Customer ID, Full Name, Date of Purchase, Age, State ,MTN Device, Gender, Satisfaction Rate, Customer Review, Customer Tenure in Months, Subscription Plan , Unit Price, Number of Times Purchased, Total Revenue, Data Usage, Customer Churn Statues, Reason  for churn.
+Customer ID, Full Name, Date of Purchase, Age, State ,MTN Device, Gender, Satisfaction Rate, Customer Review, Customer Tenure in Months, Subscription Plan , Unit Price, Number of Times Purchased, Total Revenue, Data Usage, Customer Churn Statues, Reason for churn.
 
 ### Data Source
 This Dataset was Primarily sourced by Techrative Company and assigned to me carry out Analysis on.
 
-### Tools Used
+ ### Tools Used
 For in depth  Analysis and clear Understanding. This Dataset was Analysed with Excel using the Power Query Editor to clean and Pivot Chart for Visualization.
 
  ### Data Cleaning And Preparation
@@ -18,7 +18,7 @@ For in depth  Analysis and clear Understanding. This Dataset was Analysed with E
 - A Total of 690 missing Values were replaced with “Active”.
 - The Date column was worked on by extracting  the Day, Month and Year into different field(columns) using Power Query Editor.
 
-  ### Exploratory Data Analysis
+ ### Exploratory Data Analysis
  This Analysis was carried out to address various concerns and provide answers to the following:
 - What State has the most customers?
 - What is the status of Customer in Each location?
@@ -58,6 +58,12 @@ For in depth  Analysis and clear Understanding. This Dataset was Analysed with E
 - If these situations are solved  there is high tendency that this Customers will patronize again.
 
 ### Conclusion 
+- The MTN Churn Analysis Project concludes with actionable insights derived from a thorough examination of customer behavior, sales, and revenue data. The analysis revealed    a significant 77% decline in customer satisfaction in March, despite 80% of customers rating services as Excellent or Very Good, highlighting areas for targeted               improvement. 
+- Mobile SIM cards, with a total value of 301 and Edo State leading at 14 units, emerged as the top-performing device, while revenue peaked at ₦4,192,600 in Edo State and      ₦6,859,000 from 5G Broadband Routers in Plateau. 
+- The 30GB Monthly Unlimited plan dominated subscriptions (value of 35, led by Abia at 8), contrasting with the low uptake of the 1.5TB Yearly and 3.2GB 2-Day plans (2         subscriptions). Churn analysis identified 176 active and 77 inactive customers, with Abia showing the highest churn (14) and Kebbi the lowest (2), driven by factors like     high call tariffs and network issues. 
+- Recommendations to adjust tariffs, conduct competitor pricing surveys, and strengthen network stability are poised to enhance customer retention and drive future growth in   the telecom sector.
+
+
   
 
 
